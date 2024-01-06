@@ -1,1 +1,1 @@
-Coding for my Master's dissertation Analysing Stock Market Prediction Methodology
+Code for my Master's dissertation Analysing Stock Market Prediction Methodology
